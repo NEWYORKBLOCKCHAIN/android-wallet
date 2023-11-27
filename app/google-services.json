@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481309768120",
+    "project_id": "nyc-wallet",
+    "storage_bucket": "nyc-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481309768120:android:bc768b5fae3d324e74774d",
+        "android_client_info": {
+          "package_name": "com.nyc.cryptowallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_s-qNmumKei2Noi-Sqjyh0xGPC7mbeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481309768120:android:9b8280b2d6dedb4d74774d",
+        "android_client_info": {
+          "package_name": "com.nyc.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_s-qNmumKei2Noi-Sqjyh0xGPC7mbeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

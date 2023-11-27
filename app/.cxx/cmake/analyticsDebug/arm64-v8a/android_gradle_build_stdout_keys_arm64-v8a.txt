@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/mistrba/Desktop/700-NEW/CryptoWallet PRO/app/.cxx/cmake/analyticsDebug/arm64-v8a'
+ninja: no work to do.

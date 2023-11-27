@@ -1,0 +1,7 @@
+Executable : /Users/mistrba/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/mistrba/Desktop/700-NEW/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsRelease/x86_64
+keys
+jvmArgs : 
+

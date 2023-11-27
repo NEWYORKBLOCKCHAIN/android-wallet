@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/mistrba/Desktop/299$/CryptoWallet Master/Source Code/CryptoWallet PRO/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mistrba/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/mistrba/Desktop/299$/CryptoWallet Master/Source Code/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsDebug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mistrba/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/mistrba/Desktop/299$/CryptoWallet Master/Source Code/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsDebug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "keys-Debug-x86": {
+      "artifactName": "keys",
+      "buildCommandComponents": [
+        "/Users/mistrba/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/mistrba/Desktop/299$/CryptoWallet Master/Source Code/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsDebug/x86",
+        "keys"
+      ],
+      "abi": "x86",
+      "output": "/Users/mistrba/Desktop/299$/CryptoWallet Master/Source Code/CryptoWallet PRO/app/build/intermediates/cmake/noAnalyticsDebug/obj/x86/libkeys.so",
+      "runtimeFiles": []
+    }
+  }
+}

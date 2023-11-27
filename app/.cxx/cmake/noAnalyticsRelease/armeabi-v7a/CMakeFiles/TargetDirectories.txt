@@ -1,0 +1,3 @@
+/Users/mistrba/Desktop/700-NEW/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsRelease/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/mistrba/Desktop/700-NEW/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsRelease/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mistrba/Desktop/700-NEW/CryptoWallet PRO/app/.cxx/cmake/noAnalyticsRelease/armeabi-v7a/CMakeFiles/keys.dir
