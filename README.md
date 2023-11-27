@@ -1,1 +1,1 @@
-Made by MikodesTeam
+NEWYORK WALLET
